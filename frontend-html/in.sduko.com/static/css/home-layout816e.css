@@ -1,0 +1,80 @@
+.home-section{padding-bottom:75px}
+.h1-home{color:#0f172a;font-size:2rem;font-weight:700;text-align:center;padding:0 8px;margin:44px 0 0}
+.h2-home{margin-top:30px;font-size:16px;color:#10294d;font-weight:400;height:auto;letter-spacing:inherit}
+.front-header.main-header{background:#f4f4f4}
+.main-title{margin-top:60px;font-size:22px;color:#10294d;font-weight:700}
+.categorey-row{display:flex;flex-wrap:wrap;margin:35px -15px 50px}
+.categorey-row .card .card-body p.card-text{margin-top:0;font-size:13px}
+.categorey-row .cols3{width:33.33%;padding:0 15px;box-sizing:border-box}
+.categorey-row .cols3 .card{margin-bottom:34px;background:#fff;border-radius:4px;overflow:hidden;border:1px solid #c3c3c3}
+.card-body.home{padding:14px 16px;min-height:247px}
+.categorey-row .cols3 .card .cursor-pointer{line-height:0;cursor:pointer}
+.categorey-row .cols3 .card .card-img-top{width:100%;height:auto}
+.cate-pic-thumb{display:block;width:100%;height:100%;overflow:hidden;position:relative}
+.categorey-row .cols3 .card .card-title-home{text-align:center;margin:0;background-color:#be206b;margin-bottom:0!important}
+.categorey-row .cols3 .card .card-title-home a{padding:12px 10px;display:block}
+.categorey-row .cols3 .card .card-title-home .card-title{color:#fff;font-size:18px;font-weight:700;display:flex;margin:0;align-items:center;justify-content:center}
+.icon-category-card{color:#fff!important;font-size:30px;margin-bottom:15px;display:inline-block}
+.categorey-row .cols3 .card .list-unstyled{padding:0;margin:0}
+.categorey-row .cols3 .card .list-unstyled li{padding:8px 0 8px 16px;border-bottom:1px solid #f1f1f1;position:relative;-webkit-transition:all .5s ease-out;-o-transition:all .5s ease-out;transition:all .5s ease-out}
+.categorey-row .cols3 .card .list-unstyled li:hover{padding-left:24px}
+.categorey-row .cols3 .card .list-unstyled li:before{content:'';background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAaCAYAAABsONZfAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTM4IDc5LjE1OTgyNCwgMjAxNi8wOS8xNC0wMTowOTowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTcgKFdpbmRvd3MpIiB4bXBNTTpJbnN0YW5jZUlEPSJ4bXAuaWlkOjE3OTYwNzJBNUIyRDExRUI4NUY0OTQ5QkJFRDk5RjRCIiB4bXBNTTpEb2N1bWVudElEPSJ4bXAuZGlkOjE3OTYwNzJCNUIyRDExRUI4NUY0OTQ5QkJFRDk5RjRCIj4gPHhtcE1NOkRlcml2ZWRGcm9tIHN0UmVmOmluc3RhbmNlSUQ9InhtcC5paWQ6MTc5NjA3Mjg1QjJEMTFFQjg1RjQ5NDlCQkVEOTlGNEIiIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6MTc5NjA3Mjk1QjJEMTFFQjg1RjQ5NDlCQkVEOTlGNEIiLz4gPC9yZGY6RGVzY3JpcHRpb24+IDwvcmRmOlJERj4gPC94OnhtcG1ldGE+IDw/eHBhY2tldCBlbmQ9InIiPz6ChN9FAAAAkElEQVR42rTUUQ6AIAgGYOY99OJtdRC7m0nLjUjk5yE3Hr+p+CMR0dartNYILV651xmBQ4ag3BKG+qwQnF3ShVZ3lnDVVhN67zGFyEN+IJqAF4xEh2FlSMHMMdwTxVf673gSRFpe4ZbfR1HAi9EUrAJrAms0BsjoELpAjzsE5MdSnkBm9AuDd5DoiACuS4ABAKXZC51xWFt+AAAAAElFTkSuQmCC) no-repeat;width:12px;height:12px;background-size:contain;position:absolute;left:0;top:10px}
+.categorey-row .cols3 .card .list-unstyled li a{color:#c11768;text-decoration:none;font-size:16px;font-weight:500;line-height:20px}
+p.h4{font-size:24px;font-weight:500;margin:45px 0 38px}
+p.h4 .notranslate{font-size:24px;font-weight:600;margin:45px 0 38px}
+.accordion-acrd.w-100.acc__card{border-radius:8px;margin-bottom:25px;padding:20px;box-shadow:0 4px 32px rgba(0,0,0,.06)}
+.accordion-acrd .accordion{padding:0 18px;text-align:center;outline:0;font-size:15px;transition:.4s;position:relative;display:flex;align-items:center;justify-content:center}
+.accordion.acc__title.active{border-radius:4px 4px 0 0}
+.accordion-acrd .accordion .acc-left-span{color:#c11768;font-weight:500;font-size:1.5rem;display:inline-flex;align-items:center;justify-content:center}
+.accordion-acrd .accordion .acc-left-span span{display:inline-block;margin-right:10px;color:#c11768;font-size:1.5rem}
+.accordion-acrd .panel{display:flex;align-items:center;justify-content:center;padding:1.25rem 0;flex-wrap:wrap}
+.panel.acc__panel a{background-color:#ffffffb6;border:1px solid;border-color:#be206b;border-radius:50px;color:#be206b;cursor:pointer;display:inline-block;font-size:13px;font-weight:600;margin:4px 6px;padding:10px 20px;text-align:center;text-decoration:none;width:auto}
+.panel.acc__panel a:hover{background-color:#f4f4f4}
+.accordion-acrd.w-100.acc__card.linkaccor{padding:10px}
+@media (max-width:767px) {
+.accordion-acrd .accordion .acc-left-span{font-size:1.2rem}
+}
+.plr-140 .txt_seo{line-height:24px}
+.my-search-form .form-control-s{padding:5px 25px 5px 6px}
+@media screen and (max-width:1024px) {
+.icon-category-card{font-size:25px;margin-bottom:4px}
+.card-text,.categorey-row .cols3 .card .list-unstyled li a,.txt_seo{font-size:13px;line-height:19px}
+.card-body.home{min-height:267px}
+.h1-home{margin:27px 0 0;font-size:1.3rem}
+}
+@media screen and (max-width:992px) {
+.card-body.home{min-height:327px}
+.form-control-s{padding:5px 6px}
+.form-search-btn{font-size:11px}
+}
+@media screen and (max-width:812px) {
+.home-section{padding-bottom:50px}
+p.h4{font-size:20px;margin:20px 0 16px}
+p.h4 .notranslate{font-size:20px;margin:20px 0 16px}
+.icon-category-card{font-size:20px;margin-bottom:0}
+.categorey-row{margin-top:15px}
+}
+@media (max-width:767px) {
+.categorey-row .cols3 .card.escorts,.categorey-row .cols3 .card.massage,.categorey-row .cols3 .card.male-escorts{margin-bottom:30px}
+}
+@media screen and (max-width:740px) {
+.categorey-row .cols3{width:100%}
+.copyright{font-size:12px}
+p.h4{font-size:18px}
+.card-body.home{min-height:100%}
+}
+@media screen and (max-width:667px) {
+.categorey-row .cols3 .card .card-title-home .card-title{font-size:20px}
+.icon-category-card{font-size:25px;margin-bottom:4px}
+}
+.card-text p{font-size:12.8px}
+.card-title span{font-size:22px;margin-right:6px;color:#fff}
+.icon-womenseekmen:before{content:"\e900"}
+span.icon-video-camera{margin-right:2px;color:#c11768}
+.massage .icon-womenseekmen:before{content:"\e905"}
+.male-escorts .icon-womenseekmen:before{content:"\e90b"}
+.massages .icon-womenseekmen:before{content:"\e905"}
+.adult-meetings .icon-womenseekmen:before{content:"\e904"}
+.transsexual .icon-womenseekmen:before{content:"\e90f"}
+.mobile-ad-btn .icon-plus::before{position:relative;top:2px}
+.accordion-acrd .accordion .acc-left-span:hover,.accordion-acrd .accordion .acc-left-span:hover span{color:#387ad1}

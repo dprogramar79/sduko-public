@@ -1,0 +1,25 @@
+pnpm create next-app .
+pnpm install
+pnpm add bootstrap react-bootstrap
+
+// pages/_app.js
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+import { Button } from 'react-bootstrap';
+ <Button variant="primary">Click Me</Button>
+
+pnpm dev
+
+pnpm add sass
+
+// styles/custom.scss
+@import 'bootstrap/scss/bootstrap';
+
+// pages/_app.js
+//import 'bootstrap/dist/css/bootstrap.min.css';
+import '../styles/custom.scss';
+
+
+//pnpm update commands in folder
+pnpm add -g pnpm
+C:\Users\Dell\AppData\Local\pnpm
